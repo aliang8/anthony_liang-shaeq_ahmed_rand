@@ -4,3 +4,4 @@ run: randtest
 	./a.out
 clean:
 	rm rand.txt
+	rm *~
